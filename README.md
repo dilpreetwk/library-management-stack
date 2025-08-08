@@ -40,12 +40,12 @@ Default URI for gateway: http://localhost:8080\
 - Policy: http://localhost:8080/policy/swagger-ui.html
 
 # GitHub Repositories
-1. Book Service: 
-2. Borrow Service: 
-3. Policy Service: 
-4. API Gateway: 
-5. Discovery Server: 
-6. Library Management Shell: 
+1. [Book Service](https://github.com/dilpreetwk/library-management-book-service)
+2. [Borrow Service](https://github.com/dilpreetwk/library-management-borrow-service)
+3. [Policy Service](https://github.com/dilpreetwk/library-management-policy-service)
+4. [API Gateway](https://github.com/dilpreetwk/library-management-api-gateway)
+5. [Discovery Server](https://github.com/dilpreetwk/library-management-discovery-server)
+6. [Library Management Shell](https://github.com/dilpreetwk/library-management-shell)
 
 # TODO (Priority Order)
 - [ ] 80% unit test coverage
