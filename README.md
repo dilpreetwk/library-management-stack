@@ -39,6 +39,8 @@ Default URI for gateway: http://localhost:8080\
 - Borrows: http://localhost:8080/borrow/swagger-ui.html
 - Policy: http://localhost:8080/policy/swagger-ui.html
 
+# ER Diagram
+![ER Diagram](./asset/er-daigram.png)
 # GitHub Repositories
 1. [Book Service](https://github.com/dilpreetwk/library-management-book-service)
 2. [Borrow Service](https://github.com/dilpreetwk/library-management-borrow-service)
